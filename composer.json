@@ -9,6 +9,7 @@
     ],
     "require": {
         "wpackagist-plugin/pagerestrict":"*",
-        "wpackagist-plugin/my-wp-health-check":"*"
+        "wpackagist-plugin/my-wp-health-check":"*",
+        "wpackagist-plugin/amazon-s3-and-cloudfront": "*"
     }
 }
