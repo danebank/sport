@@ -1,0 +1,14 @@
+{
+    "name": "danebank/sport",
+    "description": "Danebank Sport on Wordpress",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/pagerestrict":"*",
+        "wpackagist-plugin/my-wp-health-check":"*"
+    }
+}
